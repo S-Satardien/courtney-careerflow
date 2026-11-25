@@ -1,0 +1,9 @@
+node_modules/
+.next/
+out/
+.env
+.env.local
+src/data/outbox/
+src/data/jobs-cache.json
+*.log
+.DS_Store
